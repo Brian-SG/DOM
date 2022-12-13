@@ -1,0 +1,105 @@
+
+
+/* 1)Al hacer click en el botón, cambia el color de cada texto y además el nombre del color */
+
+/* p{
+    float: left;
+    padding: 8px;
+}
+button{
+   margin: 22px; 
+} */
+
+
+
+/* ---------------------------------------------------------------- */
+
+
+
+/* 2)Al hacer click en el botón, convierte el cuadro a un círculo*/
+
+/*div{
+    width:300px;
+    height:300px;
+    background-color:blue;
+    margin-left: 30px;
+}
+
+button{
+    margin: 15px; 
+    margin-left: 141px; 
+}*/
+
+
+
+/* ---------------------------------------------------------------- */
+
+
+
+/*3) Al hacer click en el botón, cambia el color de aquellos elementos pares*/
+/* 
+ .impar0 {
+    width: 52px;
+    height: 52px;
+    background-color: blue;
+    left: 15%;
+    top: 315px;
+    position: relative;
+}
+.par0 {
+    width: 52px;
+    height: 52px;
+    background-color: blue;
+    left: 20%;
+    top: 263px;
+    position: relative;
+}
+.impar1 {
+    width: 52px;
+    height: 52px;
+    background-color: blue;
+    left: 25%;
+    top: 212px;
+    position: relative;
+}
+.par1 {
+    width: 52px;
+    height: 52px;
+    background-color: blue;
+    left: 30%;
+    top: 160px;
+    position: relative;
+}
+.impar2 {
+    width: 52px;
+    height: 52px;
+    background-color: blue;
+    left: 35%;
+    top: 109px;
+    position: relative;
+}
+.par2 {
+    width: 52px;
+    height: 52px;
+    background-color: blue;
+    left: 40%;
+    top: 55px;
+    position: relative;
+}
+
+button{
+    position: absolute;
+    margin: 40px; 
+    margin-left: 400px;
+    top: 350px; 
+} */
+
+
+/* ---------------------------------------------------------------- */
+
+
+
+
+
+
+
